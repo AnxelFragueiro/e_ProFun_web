@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://anxelfragueiro.github.io/e_ProFun_web/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.eprofun.es/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://anxelfragueiro.github.io/e_ProFun_web/</loc>
+		<loc>https://www.eprofun.es/</loc>
 	</url>
 	<url>
-		<loc>https://anxelfragueiro.github.io/e_ProFun_web/research-project/</loc>
+		<loc>https://www.eprofun.es/research-project/</loc>
 		<lastmod>2024-04-28T16:35:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://anxelfragueiro.github.io/e_ProFun_web/research-team/</loc>
+		<loc>https://www.eprofun.es/research-team/</loc>
 		<lastmod>2024-04-28T16:37:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://anxelfragueiro.github.io/e_ProFun_web/publications-and-other-activities/</loc>
+		<loc>https://www.eprofun.es/publications-and-other-activities/</loc>
 		<lastmod>2024-12-01T10:12:27+00:00</lastmod>
 	</url>
 </urlset>
